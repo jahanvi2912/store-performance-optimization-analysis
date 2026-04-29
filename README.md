@@ -32,8 +32,19 @@ The dataset contains:
 ## Key Insights
 - Holiday promotions were over 3x higher than non-holiday periods.
 - Promotional activity was highly event-driven.
-- Fuel Price showed strongest modeled influence.
-- Store performance drivers were multifactor in nature.
+- Fuel Price showed the strongest modeled influence.
+- Store performance drivers were multifactorial in nature.
+
+## Visualizations
+
+### Correlation Heatmap
+![Heatmap](heatmap.png)
+
+### Holiday Promotion Analysis
+![Holiday Promotions](holiday_promotions.png)
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
 
 ## Model Performance
 - R² Score: 0.092
